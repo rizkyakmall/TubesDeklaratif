@@ -10,11 +10,11 @@ Kami membuat program sudoku solver dengan bahasa python dan prolog sebagai sumbe
 
 Untuk menjalankan program, system harus telah melakukan instalasi Python, SWI-Prolog, dan library pyswip
 
-cara install library, pada command prompt ketik (Python harus terinstall lebih dahulu)
+cara install library, pada command prompt ketik: 
 ```
 pip install pyswip
 ```
-
+(Python harus terinstall terlebih dahulu)
 
 ### Menjalankan Program
 
