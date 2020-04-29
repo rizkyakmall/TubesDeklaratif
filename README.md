@@ -14,7 +14,7 @@ cara install library, pada command prompt ketik:
 ```
 pip install pyswip
 ```
-(Python harus terinstall terlebih dahulu)
+CATATAN : Python harus terinstall terlebih dahulu, serta python dan swi prolog harus sudah berada dalam PATH environtment system
 
 ### Menjalankan Program
 
@@ -24,8 +24,16 @@ Cara menjalankan program
 2. Pindah ke lokasi file program disimpan
 3. inputkan pada command prompt
 
+* Untuk pengguna python 2
+
 ```
 python sudoku.py
+```
+
+* Untuk pengguna python 3
+
+```
+python sudoku3.py
 ```
 
 4. Masukkan input sesuai permintaan program
